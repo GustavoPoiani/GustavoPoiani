@@ -3,7 +3,7 @@
 [![Instagram](  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPoiani&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPoiani&layout=compact&theme=default)
 
 ## Tecnologias que uso no dia a dia
 
